@@ -1,0 +1,10 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ‰¹òJ$7f98e7de-be6e-4593-8dfd-6c9f2d970c9e
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$a6327fe2-98c2-4fe5-9232-4c35418bc770
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8íÚï‚ç1J$eb9c410e-54d9-426c-95b5-ba4777c2a4ad
+a
+java:S1452"&Remove usage of generic wildcard type.(˜ØŠJ$6d2ebdf5-9cc6-4be5-bc1f-c582704dca26
+
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(—şª®ÿÿÿÿÿJ$e7e68e8f-c9b3-4817-b6a6-92b820f07425

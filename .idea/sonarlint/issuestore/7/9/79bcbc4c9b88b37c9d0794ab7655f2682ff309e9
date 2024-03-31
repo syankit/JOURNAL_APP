@@ -1,0 +1,16 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÈÍ„
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S1874"BRemove this use of "EnableGlobalMethodSecurity"; it is deprecated.(õØ¶
+T
+java:S1874"9Remove this use of "authorizeRequests"; it is deprecated.(àœàÖùÿÿÿÿ
+]
+java:S5738%"HRemove this call to a deprecated method, it has been marked for removal.(ÁôĞG
+]
+java:S5738&"HRemove this call to a deprecated method, it has been marked for removal.(ø«ä"
+‘
+java:S1128"vRemove this unused import 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration'.(Æ­¹¬øÿÿÿÿ

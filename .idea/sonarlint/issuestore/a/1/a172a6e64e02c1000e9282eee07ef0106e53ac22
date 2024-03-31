@@ -1,0 +1,13 @@
+
+¥
+java:S3577"ŽRename class "userservicetest" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ö·ã¼
+9
+java:S5786"Remove this 'public' modifier.(’£žªûÿÿÿÿ
+9
+java:S5786$"Remove this 'public' modifier.(Ý¼ãÂûÿÿÿÿ
+4
+java:S5786"Remove this 'public' modifier.(ö·ã¼
+`
+java:S5845"JChange the assertion arguments to not compare a primitive value with null.(ˆµüâ
+y
+java:S1607$"^Either add an explanation about why this test is skipped or remove the "@Disabled" annotation.(Ý¼ãÂûÿÿÿÿ

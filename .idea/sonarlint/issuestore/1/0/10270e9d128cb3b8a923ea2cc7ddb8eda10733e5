@@ -1,0 +1,5 @@
+
+—
+java:S1104"TMake appCache a static final constant or non-public and provide accessors if needed.(ó¦ôÞ8ñ‡Ú‚ç1J$f6c5ec86-8304-464e-90df-ce976125c4a2
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ö‡Ú‚ç1J$bff901a5-5a4e-4cc0-8531-de91209ff73f

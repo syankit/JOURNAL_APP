@@ -1,0 +1,7 @@
+
+y	java:S116 "^Rename this field "journal_entriesList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô»è8‰ìš«ç1
+y
+java:S1128
+"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚J$1ffe8b57-fc98-4a87-9cdf-b36015f7338e
+y
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ý÷õ¡J$e7aede1f-4e1f-4ff4-bc2b-05ae5df0205c

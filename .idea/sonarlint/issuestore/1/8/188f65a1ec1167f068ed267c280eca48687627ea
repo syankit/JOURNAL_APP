@@ -1,0 +1,13 @@
+
+<
+java:S1640("Convert this Map to an EnumMap.(×ÔˆÛ8›§å‹è1
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8‚ÀÛ‹è1J$80a31f5a-807d-41e9-9b1b-800020f8e6aa
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ƒÀÛ‹è1J$1d114fbb-826c-44cf-90be-ee69ba763cfa
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ƒÀÛ‹è1J$4b0ddbdd-fbb4-4de5-be52-30b6729c9225
+š
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(»•¨Øþÿÿÿÿ8ÜÀÛ‹è1J$66db8e9d-6220-491d-8863-3c39994b0b6c
+h
+java:S1128	"KRemove this unused import 'com.jrn.journalapp.service.Journalentryservice'.(«•ŠÄ8¥ªå‹è1

@@ -1,0 +1,36 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Òˆ†¤æ1J$7b554568-63e4-4c0e-b73c-4a19699e870e
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Òˆ†¤æ1J$2fd470d2-a68f-448f-90dc-c39b2e5cdfb1
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄÞ8¤ã‰¤æ1J$ae6698c9-18f2-478b-b6e2-49ffda4418ef
+‚
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(•¢ès8Ùˆ†¤æ1J$c9ed408e-4763-4a0b-b796-f4b3f200e722
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(øÇµ¿ùÿÿÿÿ8Ûˆ†¤æ1J$4e19646e-cdb3-4653-9853-9e9c04a4f8dc
+ˆ
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(²¶é„þÿÿÿÿ8Ýˆ†¤æ1J$1e6b7972-ba9f-4345-a80d-a988f8e217be
+n
+java:S1452-"&Remove usage of generic wildcard type.(²¶é„þÿÿÿÿ8Þˆ†¤æ1J$a3edfe7a-9a7e-4e79-8eaa-f00fff7610df
+i
+java:S1452I"&Remove usage of generic wildcard type.(¥´±Š8áˆ†¤æ1J$9fa1bfc6-f5e6-4d6c-97df-8c9cf7c2343f
+ƒ	java:S1258"<This block of commented-out lines of code should be removed.(ºÉ‘ëüÿÿÿÿ8âˆ†¤æ1J$3a8a3caf-82ff-4f38-99e9-8e128da62170
+i
+java:S1452O"&Remove usage of generic wildcard type.( Á¯„8òû‚ç1J$2f0c799f-d063-446c-a946-ae4984402253
+c
+java:S1128"FRemove this unused import 'com.jrn.journalapp.entity.journal_entries'.(ð©‚…8ñ÷ü‚ç1
+h
+java:S1128"KRemove this unused import 'com.jrn.journalapp.service.Journalentryservice'.(«•ŠÄ8ñ÷ü‚ç1
+V
+java:S1128
+"4Remove this unused import 'org.bson.types.ObjectId'.(Ü¡‰çýÿÿÿÿ8ñ÷ü‚ç1
+f
+java:S1128"DRemove this unused import 'org.hibernate.annotations.DynamicUpdate'.(Û­‰Òøÿÿÿÿ8ñ÷ü‚ç1
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿ8ò÷ü‚ç1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ò÷ü‚ç1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ò÷ü‚ç1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8ò÷ü‚ç1
